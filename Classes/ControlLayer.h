@@ -1,3 +1,4 @@
+
 #pragma once
 
 #include "cocos2d.h"
@@ -33,4 +34,4 @@ public:
 
 	NoTouchLayer* noTouchLayer;
 };
-// by xiongkaiqi 
+// by xiongkaiqi 1108

@@ -1,3 +1,4 @@
+
 #pragma once
 #include "cocos2d.h"
 
@@ -19,4 +20,5 @@ private:
 	Sprite* m_sprite;
 	int m_life;
 };
-// by xiongkaiqi 
+// by xiongkaiqi 1108
+

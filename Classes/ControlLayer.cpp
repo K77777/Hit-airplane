@@ -1,3 +1,4 @@
+
 #include "ControlLayer.h"
 
 ControlLayer::ControlLayer(void)
@@ -70,4 +71,4 @@ void ControlLayer::updateScore(int score)
 		scoreItem->setString(strScore.asString());
 	}
 }
-//by xiongkaiqi
+//by xiongkaiqi1108

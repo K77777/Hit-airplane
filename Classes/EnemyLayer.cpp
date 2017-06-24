@@ -1,3 +1,4 @@
+
 #include "EnemyLayer.h"
 #include "GameLayer.h"
 
@@ -354,4 +355,4 @@ void EnemyLayer::removeAllEnemy()
 	removeAllEnemy2();
 	removeAllEnemy3();
 }
-// by xiongkaiqi 
+// by xiongkaiqi 1108

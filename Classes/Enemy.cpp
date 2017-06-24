@@ -1,3 +1,4 @@
+
 #include "Enemy.h"
 
 Enemy::Enemy(void)
@@ -51,3 +52,4 @@ Rect Enemy::getBoundingBox()
 	return enemyRect;
 }
 // by xiongkaiqi 
+1108

@@ -1,3 +1,4 @@
+
 #pragma once
 #include "cocos2d.h"
 #include "Enemy.h"
@@ -55,4 +56,4 @@ private:
 
 
 };
-// by xiongkaiqi 
+// by xiongkaiqi 1108
